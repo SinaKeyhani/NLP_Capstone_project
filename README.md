@@ -6,7 +6,7 @@
 3. Dataset Description
 4. Evaluation of Results
 5. Strengths and Limitations
-7. Credits
+6. Credits
 
 
 # Project Overview
@@ -29,5 +29,7 @@ This comprehensive dataset contains customer reviews for a wide array of product
 # Strengths and Limitations
 While the sentiment analysis model has proven effective in categorizing sentiments of reviews, it faces limitations in detecting nuanced expressions of human emotions, such as sarcasm. Future work could explore more sophisticated models or incorporate additional linguistic features to enhance the accuracy of sentiment detection. Additionally, It would be good to use Large English language package to increase the accuracy in both semantic analysis and similarity.
 
+# Credits
+This project was developed by Sina Keyhani. Acknowledgments to the creators and contributors of the pandas, spaCy, and TextBlob libraries for their tools that significantly contributed to this analysis.
 
 
