@@ -1,3 +1,6 @@
+
+
+
 # Sentiment Analysis of Amazon Product Reviews
 
 This project delves into the sentiment analysis of Amazon product reviews, employing advanced Natural Language Processing (NLP) techniques to decipher the underlying sentiments expressed by customers. The project aims to parse through an extensive dataset of reviews, applying the pandas library for data handling and the TextBlob library for conducting sentiment analysis. The insights garnered from this analysis are intended to shed light on customer satisfaction levels across various products, providing valuable feedback to businesses aiming to enhance their product offerings and customer service.
