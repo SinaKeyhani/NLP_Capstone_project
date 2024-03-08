@@ -1,4 +1,4 @@
-# Sentiment Analysis of Amazon Product Reviews
+# Sentiment Analysis of Amazon Product Reviews 💻
 
 # Table of Contents
 1. Project overview
